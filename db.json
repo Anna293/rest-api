@@ -1,5 +1,5 @@
 {
-  "Livros": [
+  "livros": [
     {
       "id": 1,
       "nome": "É assim que acaba",
@@ -43,7 +43,7 @@
       "autor_id": 2
     }
   ],
-  "Generos": [
+  "generos": [
     {
       "id": 1,
       "genero": "Romance"
@@ -61,7 +61,7 @@
       "genero": "Ficção"
     }
   ],
-  "Autores": [
+  "autores": [
     {
       "id": 1,
       "Autor": "Jojo Moyes"
