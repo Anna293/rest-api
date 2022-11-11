@@ -46,37 +46,54 @@
   "generos": [
     {
       "id": 1,
-      "genero": "Romance"
+      "genero": "Romance",
+      "Sugestões": "A culpa é das estrelas , Mil beijos de garotos " ,
+      "idiomas": "Portugues e Ingles"
     },
     {
       "id": 2,
-      "genero": "Suspense"
+      "genero": "Suspense",
+      "Sugestões":"Bird Box , Estado de alerta",
+      "idiomas": "Portugues e Coreano"
     },
     {
       "id": 3,
-      "genero": "Drama"
+      "genero": "Drama",
+      "Sugestões":"Odisseia , Extraordinário",
+      "idiomas": "Espanhol e Ingles"
     },
     {
       "id": 4,
-      "genero": "Ficção"
+      "genero": "Ficção",
+      "Sugestões":" A garota do lago , Jogos vorazes",
+      "idiomas": "Portugues e Espanhol"
+    
     }
   ],
   "autores": [
     {
       "id": 1,
-      "Autor": "Jojo Moyes"
+      "Autor": "Jojo Moyes",
+      "sexo": "feminino",
+      "idade": 53
     },
     {
       "id": 2,
-      "Autor": "Antoine de Saint-Exupéry"
+      "Autor": "Antoine de Saint-Exupéry",
+      "sexo": "masculino",
+      "idade": 44
     },
     {
       "id": 3,
-      "Autor": "Colleen Hoover"
+      "Autor": "Colleen Hoover",
+      "sexo": "feminino",
+      "idade": 42 
     },
     {
       "id": 4,
-      "Autor": "C.J.Tudor"
+      "Autor": "C.J.Tudor",
+      "sexo": "masculino",
+      "idade": 50
     }
   ]
 }
